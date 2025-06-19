@@ -6,4 +6,22 @@ def main(s):
     Returns:
         int: answer
     """
-    return
+    raqamlar=0
+    if s[0]== (1,2,3,4,5,6,7,8,9,):
+        raqamlar += 1
+        return raqamlar 
+    if s[1]== (1,2,3,4,5,6,7,8,9,):
+        raqamlar += 1
+        return raqamlar 
+    if s[2]== (1,2,3,4,5,6,7,8,9,):
+        raqamlar += 1
+        return raqamlar 
+    if s[3]== (1,2,3,4,5,6,7,8,9,):
+        raqamlar += 1
+        return raqamlar 
+    if s[4]== (1,2,3,4,5,6,7,8,9,):
+        raqamlar += 1
+        return raqamlar
+
+print(main('a1bcd')) 
+    
